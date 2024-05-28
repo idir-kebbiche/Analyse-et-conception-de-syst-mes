@@ -16,6 +16,7 @@ Tests: Selenium
 
 🚀 Contributeurs
 
-# idir kebbiche
+# Idir Kebbiche
 # Bouguettaya Amine
-# Massinissa idir Rahmani
+# Massinissa Idir Rahmani
+# Issad Rayan
